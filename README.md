@@ -27,6 +27,18 @@ If you're new to n8n, you can sign up and test this workflow directly:
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/#philrox/n8n-workflows&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=philrox/n8n-workflows&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=philrox/n8n-workflows&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=philrox/n8n-workflows&type=Date" />
+  </picture>
+</a>
+
+---
+
 ## License
 
 MIT License
